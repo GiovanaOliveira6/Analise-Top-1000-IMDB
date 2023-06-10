@@ -5,7 +5,13 @@
 
 ## Integrantes
  
-- Giovana da Silva Oliveira
+|Nome|R.A.|
+|----|----|
+|Giovana da Silva Oliveira|2222100046|
+|Guilherme Santos de Oliveira da Silva|2222102807|
+|Joaquim Matias da Costa Júnior|2222108053|
+|Kaline Fernanda Silva Santos|2222200873|
+|Lucas Lima de Oliveira|2222101615|
 
 ## Professor
 
@@ -20,7 +26,7 @@ Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses i
 ### Conteúdo:
 O principal objetivo deste trabalho é realizar uma análise exploratória sobre os dados do Top 1000 do IMDB de (Internet Movie Database), de 2020, para obter insights sobre as informações extraídas.
 
-Os dados foram obtidos pela plataforma [Kaggle][https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows]. Adicionalmente, também foi utilizada uma base de dados com informações das [premiações do oscar, de 1927 até 2023][https://www.kaggle.com/datasets/unanimad/the-oscar-award], também disponível no Kaggle.
+Os dados foram obtidos pela plataforma Kaggle (https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows). Adicionalmente, também foi utilizada uma base de dados com informações das premiações do oscar, de 1927 até 2023 (https://www.kaggle.com/datasets/unanimad/the-oscar-award), também disponível no Kaggle.
 
 Os datasets, em formato csv, estão disponíveis nesse repositório na pasta dados.
 
