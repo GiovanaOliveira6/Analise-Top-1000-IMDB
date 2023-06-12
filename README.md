@@ -12,6 +12,7 @@
 |Joaquim Matias da Costa Júnior|2222108053|
 |Kaline Fernanda Silva Santos|2222200873|
 |Lucas Lima de Oliveira|2222101615|
+|Larissa Marangon |2222200991|
 
 ## Professor
 
